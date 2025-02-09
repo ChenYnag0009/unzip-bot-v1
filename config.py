@@ -3,7 +3,7 @@ import os
 
 
 class Config:
-    APP_ID = int(os.environ.get("APP_ID"))
+    APP_ID = int(os.environ.get("APP_ID", "7684599268:AAFf97fALKymo_Xi1hb3t0kiFP8Wmis1k8I"))
     API_HASH = os.environ.get("API_HASH")
     BOT_TOKEN = os.environ.get("BOT_TOKEN")
     LOGS_CHANNEL = (
