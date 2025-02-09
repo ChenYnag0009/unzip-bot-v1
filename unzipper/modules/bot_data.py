@@ -70,7 +70,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @phu_kdet if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -190,7 +190,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you can't send any other task 🙂🔫
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @phu_kdet if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` file(s) have been extracted from that archive"
@@ -235,7 +235,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 I can extract any archive, with password or not, splitted, …
 Send **/commands** to learn more
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @phu_kdet**
 **/donate** if you can 🥺
     """
 
@@ -262,7 +262,7 @@ Send **/commands** to learn more
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@EDM115** or join the chat **@phu_kdet**
     """
 
     ABOUT_TXT = """
@@ -319,7 +319,7 @@ Here's how : Become a VIP user and benefit from extra perks !
 **How to become a VIP ?**
 1) Send **/pay** to the bot
 2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
+3) Send a screenshot of your payment to **@phu_kdet**
 4) Enjoy your VIP perks !
 
 **What happens when my subscription ends ?**
@@ -457,7 +457,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @phu_kdet if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -539,7 +539,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @phu_kdet with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -557,7 +557,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join @phu_kdet ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
@@ -676,7 +676,7 @@ If it fails again, it means that {} haven't started the bot yet (or deleted the 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join **@phu_kdet**)
     """
 
     BAN_ID = "Give an user id to ban 😈"
