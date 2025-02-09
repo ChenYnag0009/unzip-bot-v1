@@ -8,8 +8,8 @@ class Config:
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7684599268:AAFf97fALKymo_Xi1hb3t0kiFP8Wmis1k8I")
     LOGS_CHANNEL = (
         int(os.environ.get("LOGS_CHANNEL", "-1002482663527"))
-        if os.environ.get("LOGS_CHANNEL").strip("-").isdigit()
-        else os.environ.get("LOGS_CHANNEL", "-1002482663527")
+        #if os.environ.get("LOGS_CHANNEL").strip("-").isdigit()
+        #else os.environ.get("LOGS_CHANNEL", "-1002482663527")
     )
     MONGODB_URL = os.environ.get("MONGODB_URL", "mongodb+srv://pangphu9:0pSRO3UHIoH5ouAx@cluster0.ipqp2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
     MONGODB_DBNAME = os.environ.get("MONGODB_DBNAME", "Unzipper_Bot")
