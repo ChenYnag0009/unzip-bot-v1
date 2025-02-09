@@ -262,7 +262,7 @@ Send **/commands** to learn more
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@phu_kdet**
+    PM me at **@phu_kdet** or join the chat **@phu_kdet**
     """
 
     ABOUT_TXT = """
@@ -511,7 +511,7 @@ That's not an archive 💀
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@phu_kdet**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -671,7 +671,7 @@ It failed 😣 Retry
 If it fails again, it means that {} haven't started the bot yet (or deleted the chat), or he's private/banned/whatever
     """
 
-    REPORT_REPLY = "Reply to a message to report it to @EDM115"
+    REPORT_REPLY = "Reply to a message to report it to @phu_kdet"
 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
@@ -816,7 +816,7 @@ Here's all the commands that only the owner (you) can use :
 **/maintenance** : Put the bot in or out of maintenance mode. No tasks can be processed while on
 **/cleanall** : Same as `/clean`, but for the whole server
 **/cleantasks** : Same as `/cleanall`, plus removes them from the database
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@phu_kdet** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : ~~Exports the whole database as CSV~~ __Does nothing yet__
 **/eval {code}** : Evaluate a piece of code. Useful for debugging
