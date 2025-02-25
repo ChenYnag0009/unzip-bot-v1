@@ -5,7 +5,7 @@ import os
 class Config:
     APP_ID = int(os.environ.get("APP_ID", "26775695"))
     API_HASH = os.environ.get("API_HASH", "b15bb60859bef151762fc5d9eb206c67")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7684599268:AAFf97fALKymo_Xi1hb3t0kiFP8Wmis1k8I")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "8008580594:AAEZlYzjVCxun8XhpmlG4iXYZl64fwe_-Tk")
     LOGS_CHANNEL = (
         int(os.environ.get("LOGS_CHANNEL", "-1002482663527"))
         #if os.environ.get("LOGS_CHANNEL").strip("-").isdigit()
